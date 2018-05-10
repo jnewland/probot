@@ -22,7 +22,7 @@
   "author": "Brandon Keepers",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "git+https://github.com/jnewland/rest.js#optional",
+    "@octokit/rest": "git+https://github.com/jnewland/rest.js.git#9fd75b229bf21e4acf01d270a4b48a16f5018500",
     "@octokit/webhooks": "^3.1.1",
     "bottleneck": "^2.2.0",
     "bunyan": "^1.8.12",
